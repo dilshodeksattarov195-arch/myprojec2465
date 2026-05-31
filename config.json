@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuonnect",
+        "uuid": 20908130,
+        "checksum": "nq96c5"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
